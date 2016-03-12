@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-# SHIEP STUDENT CENTER CRAWLER - June 2014 by Sam
+# SHIEP STUDENT CENTER CRAWLER - June 2014 by surpassing
 # 上海电力学院学生信息查询简易版本
 # python 2
-# 使用方法：手动输入学号范围和cookie，登陆管理系统(非学生)获取cookies后开爬
+# 使用方法：手动输入学号范围和cookie，登陆管理平台开跑
 
 # import chardet
 import requests
